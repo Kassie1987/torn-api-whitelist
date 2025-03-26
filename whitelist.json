@@ -1,7 +1,4 @@
 {
-  "allowedKeys": [
-    "wNG2VfSTE0SJpeGK",
-    "anotherTestKey123",
-    "yourFriendKey456"
-  ]
+  "allowedKeys": ["wNG2VfSTE0SJpeGK"]
+
 }
